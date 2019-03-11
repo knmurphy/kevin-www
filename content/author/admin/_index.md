@@ -75,4 +75,4 @@ user_groups = []
 
 +++
 
-Kevin N. Murphy is the Senior Product Manager at [Chirpy Hire](https://www.chirpyhire.com), Software Engineer and general biz ops at [Kindly Ops](https://www.kindlyops.com). In addition to work with software he regularly works as a producer and director for [FRANK](http://wwww.frankfrankfrank.com).
+Howdy! I'm Kevin and this is where I write about photography, various software tools I'm using to get work done. Sometimes I write tutorials etc. I also publish _selected_ photography and videography (not just your ol'bucket of bolts). I work at [Kindly Ops](https://www.kindlyops.com) where we reduce regulatory burden by helping teams do a good job with compliance while getting credit for reducing risk inside the company. Kindly Ops recently acquired [Chirpy Hire](https://www.chirpyhire.com) which I've taken on running as Senior Product Manager. Some years ago I helped start [FRANK](http://wwww.frankfrankfrank.com) and I still work for them from time to time. 

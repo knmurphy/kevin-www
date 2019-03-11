@@ -17,5 +17,5 @@ menu_title = "#e4dbcf"
 
 
 # Home sections
-home_section_odd = "rgb(79, 72, 93)"
-home_section_even = "rgba(79, 72, 93, 0.8705882352941177)"
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
