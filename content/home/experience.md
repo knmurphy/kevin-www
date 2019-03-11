@@ -41,4 +41,18 @@ date_format = "January 2006"
   * Web
   * Photo and video production
   """
+
+[[experience]]
+  title = "Co-Founder"
+  company = "FRANK"
+  company_url = "http://www.frankfrankfrank.com"
+  location = "Seattle, WA"
+  date_start = "2014-09-15"
+  date_end = "2015-09-15"
+  description = """
+  Responsibilities include:
+  
+  * Web
+  * Photo and video production
+  """
 +++
