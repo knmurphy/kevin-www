@@ -36,9 +36,9 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Yeah but did you take this?"
-  institution = "Not here"
-  year = 2012
+  course = "General Education Diploma"
+  institution = "Seminole Community College"
+  year = 2001
 
 
 # Social/Academic Networking
@@ -48,7 +48,7 @@ user_groups = []
 
 [[social]]
   icon = "envelope"
-  icon_pack = "fas"
+  icon_pack = "fab"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
@@ -75,4 +75,6 @@ user_groups = []
 
 +++
 
-Howdy! I'm Kevin and this is where I write about photography, various software tools I'm using to get work done. Sometimes I write tutorials etc. I also publish _selected_ photography and videography (not just your ol'bucket of bolts). I work at [Kindly Ops](https://www.kindlyops.com) where we reduce regulatory burden by helping teams do a good job with compliance while getting credit for reducing risk inside the company. Kindly Ops recently acquired [Chirpy Hire](https://www.chirpyhire.com) which I've taken on running as Senior Product Manager. Some years ago I helped start [FRANK](http://wwww.frankfrankfrank.com) and I still work for them from time to time. 
+Howdy! I'm Kevin and this is where I write about photography, various software tools I'm using to get work done. Sometimes I write tutorials etc. I also publish _selected_ photography and videography (not just your ol'bucket of bolts). 
+
+I work at [Kindly Ops](https://www.kindlyops.com) where we reduce regulatory burden by helping teams do a good job with compliance while getting credit for reducing risk inside the company. Kindly Ops recently acquired [Chirpy Hire](https://www.chirpyhire.com) which I've taken on running as Senior Product Manager. Some years ago I helped start [FRANK](http://wwww.frankfrankfrank.com) and I still work for them from time to time.
