@@ -2,7 +2,7 @@
 name = "Southwest"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
 primary = "#e7ae6e"
@@ -13,9 +13,9 @@ primary_dark = "#0039cb"
 menu_primary = "#292928"
 menu_text = "#e4dbcf"
 menu_text_active = "#ffffff"
-menu_title = "#2b2b2b"
+menu_title = "#e4dbcf"
+
 
 # Home sections
-# Home sections
-home_section_odd = "hsla(231, 15%, 18%, 1)"
-home_section_even = "hsla(231, 15%, 16%, 1)"
+home_section_odd = "rgb(79, 72, 93)"
+home_section_even = "rgba(79, 72, 93, 0.8705882352941177)"
