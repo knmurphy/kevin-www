@@ -36,14 +36,6 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Pioneer Service School"
-  institution = "Jehovah's Witnesses, WA-5"
-  year = "<sup>2003, 2018</sup>"
-[[education.courses]]
-  course = "Theocratic Ministry School"
-  institution = "Jehovah's Witnesses, 2001-Present"
-  year = ""
-[[education.courses]]
   course = "General Education Diploma"
   institution = "Seminole Community College"
   year = 2001
@@ -73,7 +65,7 @@ user_groups = []
 [[social]]
   icon = "instagram"
   icon_pack = "fab"
-  link = "https://instagram.com/knmurphy"
+  link = "https://instagram.com/kevinnmurphy"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
