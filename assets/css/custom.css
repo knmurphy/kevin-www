@@ -18,3 +18,19 @@ h3.bio-heading {
     border-radius: 15% 15% 0% 0%;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)
   }
+
+h3.article-title a {
+      text-transform: uppercase;
+      color: #302e2a;
+      letter-spacing: 0.05rem;
+      font-weight:900;
+      text-decoration: underline;
+      text-decoration-color: #AEA288;
+  }
+
+h3.article-title a:hover {
+    color: #AEA288;
+    text-decoration: underline;
+    text-decoration-color: #302e2a;
+    transition: color 0.6s ease, text-decoration-color 0.6s ease;
+  }
