@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Kevin N. Murphy"
+name = "KEVIN N. MURPHY"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -36,9 +36,18 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "Pioneer Service School"
+  institution = "Jehovah's Witnesses, WA-5"
+  year = "<sup>2003, 2018</sup>"
+[[education.courses]]
+  course = "Theocratic Ministry School"
+  institution = "Jehovah's Witnesses, 2001-Present"
+  year = ""
+[[education.courses]]
   course = "General Education Diploma"
   institution = "Seminole Community College"
   year = 2001
+
 
 
 # Social/Academic Networking
@@ -75,6 +84,6 @@ user_groups = []
 
 +++
 
-Howdy! I'm Kevin and this is where I write about photography, various software tools I'm using to get work done. Sometimes I write tutorials etc. I also publish _selected_ photography and videography (not just your ol'bucket of bolts). 
+Howdy! I'm lil'fred (a.k.a. Kevin N. Murphy) and this is where I write about photography, various software tools I'm using to get work done. Sometimes I write tutorials etc. I also publish _selected_ photography and videography (not just your ol'bucket of bolts). 
 
 I work at [Kindly Ops](https://www.kindlyops.com) where we reduce regulatory burden by helping teams do a good job with compliance while getting credit for reducing risk inside the company. Kindly Ops recently acquired [Chirpy Hire](https://www.chirpyhire.com) which I've taken on running as Senior Product Manager. Some years ago I helped start [FRANK](http://wwww.frankfrankfrank.com) and I still work for them from time to time.
