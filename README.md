@@ -1,4 +1,9 @@
-# Academic Kickstart
+
+# Kevin N. Murphy's website
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a5fca88-8d69-44da-980e-5be11ebf0fc5/deploy-status)](https://app.netlify.com/sites/kevin-personal-d0a4f6/deploys)
+
+## Academic Kickstart
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
 
