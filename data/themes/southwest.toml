@@ -2,18 +2,18 @@
 name = "Southwest"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "#e7ae6e"
-primary_light = "#768fff"
-primary_dark = "#0039cb"
+primary = "#AEA288"
+primary_light = "#AEA288"
+primary_dark = "#d7d1c4"
 
 # Menu
-menu_primary = "#292928"
-menu_text = "#e4dbcf"
+menu_primary = "#fff"
+menu_text = "#beb5a0"
 menu_text_active = "#ffffff"
-menu_title = "#e4dbcf"
+menu_title = "#302e2a"
 
 
 # Home sections

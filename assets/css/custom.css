@@ -1,0 +1,9 @@
+h1,h3 {
+    font-weight: 900;
+    letter-spacing: 0.15rem;
+    text-transform: uppercase;
+}
+#navbar > ul.navbar-nav.mr-auto {
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+}

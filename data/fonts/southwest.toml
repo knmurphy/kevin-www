@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Southwest"
+
+# Optional Google font URL
+google_fonts = "Nunito+Sans:400,700,900|Domine|Roboto+Mono"
+
+# Font families
+heading_font = "Nunito Sans"
+body_font = "Domine"
+nav_font = "Nunito Sans"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "22"
+font_size_small = "18"
