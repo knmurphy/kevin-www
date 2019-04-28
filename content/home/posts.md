@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Blarg Posts"
-subtitle = "I writ dis puter sory"
+subtitle = "I writ dis :computer:puter sory"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
