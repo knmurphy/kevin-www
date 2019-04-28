@@ -1,10 +1,10 @@
 +++
 # Hero widget.
 widget = "hero"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "lil'fred"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -16,11 +16,11 @@ hero_media = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "#302e2a"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#45433f"
+  #gradient_end = "#302e2a"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.

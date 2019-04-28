@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "Blargs"
 
 # View.
 #   1 = List
@@ -9,6 +9,6 @@ view = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "featured_night"
+image = "featured.jpg"
 caption = "A new time is had."
 +++

@@ -4,10 +4,10 @@
 
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Blarg Posts"
-subtitle = "I writ dis"
+subtitle = "I writ dis puter sory"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
