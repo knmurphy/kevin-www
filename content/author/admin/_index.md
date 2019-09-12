@@ -76,6 +76,6 @@ user_groups = []
 
 +++
 
-:wave: Howdy! I'm lil'fred (a.k.a. Kevin N. Murphy) and this is where I write about photography, various software tools I'm using to get work done. Sometimes I write tutorials etc. I also publish _selected_ photography and videography (not just your ol'bucket of bolts). 
+:wave: Howdy! I'm Kevin N. Murphy (a.k.a. lil'fred) and this is where I write about photography, video production, and various software tools I'm using to get work done.
 
-I work at [Kindly Ops](https://www.kindlyops.com) where we reduce regulatory burden by helping teams do a good job with compliance while getting credit for reducing risk inside the company. Kindly Ops recently acquired [Chirpy Hire](https://www.chirpyhire.com) which I've taken on running as Senior Product Manager. Some years ago I helped start [FRANK](http://wwww.frankfrankfrank.com) and I still work for them from time to time.
+My wife Whitney ([@nontoxichairstylist](https://instagram.com/nontoxichairstylist)) and I founded [Non Toxic Hair Stylist](https://www.nontoxichairstylist.com/?ref="lilfredcool") after discovering for ourselves how toxic the chemicals commonly found in Hair Salons are both for hair stylists and for their clients.
